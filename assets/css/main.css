@@ -152,7 +152,7 @@ input, select, textarea {
 	}
 
 	h3 {
-		color: #5b4f5f;
+		color: #533A7B;
 		font-size: 1.75em;
 		line-height: 1.5em;
 	}
@@ -2814,7 +2814,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #ffffff;
-							color: #5b4f5f !important;
+							color: #533A7B !important;
 						}
 
 					#header > nav ul li:first-child {
