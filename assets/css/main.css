@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #5b4f5f !important;
+			color: #533A7B !important;
 		}
 
 	strong, b {
@@ -147,12 +147,13 @@ input, select, textarea {
 		}
 
 	h2 {
+		color: #533A7B
 		font-size: 2em;
 		line-height: 1.5em;
 	}
 
 	h3 {
-		color: #5b4f5f;
+		color: #533A7B;
 		font-size: 1.75em;
 		line-height: 1.5em;
 	}
@@ -2814,7 +2815,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #ffffff;
-							color: #5b4f5f !important;
+							color: #533A7B !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -3082,7 +3083,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #5b4f5f;
+						background: #533A7B;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
