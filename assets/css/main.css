@@ -2796,8 +2796,6 @@ input, select, textarea {
 
 				#header > nav ul li {
 					border-top: none;
-					display: block;
-					padding: 0;
 				}
 
 					#header > nav ul li a {
