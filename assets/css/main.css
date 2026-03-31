@@ -99,7 +99,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #888;
-		font-family: "Lato", sans-serif;
+		font-family: "Roboto", sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
 		line-height: 1.75em;
@@ -2463,6 +2463,11 @@ input, select, textarea {
 			padding: 0.75em 0.75em;
 		}
 
+		table td:first-child {
+		    width: 18%;
+		    white-space: nowrap;
+		}
+
 		table th {
 			color: #777;
 			font-size: 0.9em;
@@ -2803,7 +2808,7 @@ input, select, textarea {
 						border: 0;
 						color: #ffffff !important;
 						display: block;
-						padding: 0.85em 0;
+						padding: 0.45em 0;
 						text-decoration: none;
 					}
 
